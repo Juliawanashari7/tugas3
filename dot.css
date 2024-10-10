@@ -1,0 +1,17 @@
+.box{
+    color: blue(0,0,0);
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    font-size: 100px;
+    background-color:blue;
+}
+
+
+#pembungkus {
+    display: flex;
+    justify-content: space-betweens;
+}
+
+
+
